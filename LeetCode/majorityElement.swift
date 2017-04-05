@@ -1,3 +1,5 @@
+https://leetcode.com/problems/majority-element/#/description
+
 func majorityElement(_ nums: [Int]) -> Int {
     var dictCounter = [Int: Int]()
     var theMajorityElement = 0
